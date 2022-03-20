@@ -1,3 +1,21 @@
+@charset "UTF-8";
+
+a:link {
+	color: #aaf;
+}
+
+a:hover {
+	color: #fff;
+}
+
+a:visited {
+	color: #aaa;
+}
+
+a:active {
+	color: #ff0;
+}
+
 body, html {
 	border: none;
 	margin: 0;
