@@ -23,3 +23,19 @@ content {
 	text-align: left;
 	font-size: 20px;
 }
+
+a:link {
+	color: #aaf;
+}
+
+a:hover {
+	color: #fff;
+}
+
+a:visited {
+	color: #aaa;
+}
+
+a:active {
+	color: #ff0;
+}
