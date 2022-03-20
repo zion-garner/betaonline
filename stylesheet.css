@@ -22,7 +22,8 @@ body, html {
 	padding: 0;
 	background-color: #222;
 	color: #e0d0d0;
-	background-image:url('betaonline/img/bg.gif');
+	background-image: url("betaonline/img/bg.gif");
+  	background-repeat: repeat;
 	font-weight: normal;
 	font-family: sans-serif;
     	height:100%;
