@@ -8,3 +8,8 @@ body {
 	background-image: url("/betaonline/img/bg.gif");
   	background-repeat: repeat;
 }
+
+topbar {
+	background-image: url("/betaonline/img/topbar.gif");
+  	background-repeat: repeat;
+}
