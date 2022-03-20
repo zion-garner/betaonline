@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
 body, html {
-	background-image: url('/img/bg.gif');
+	background-image: url("/betaonline/img/bg.gif");
   	background-repeat: repeat;
 }
