@@ -3,6 +3,8 @@
 body, html {
 	background-color: #222222;
 	color: #c2bcbc;
+	font-weight: normal;
+	font-family: sans-serif;
 	background-image: url("/betaonline/img/bg.gif");
   	background-repeat: repeat;
 }
