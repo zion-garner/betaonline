@@ -13,3 +13,7 @@ topbar {
 	background-image: url("/betaonline/img/bg_top.png");
   	background-repeat: repeat;
 }
+
+content {
+	float: right;
+}
