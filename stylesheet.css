@@ -12,6 +12,10 @@ body {
     animation: fadeIn 1.5s ease-in-out;
 }
 
+donate-body {
+    background-image: url("/img/bg2.gif");
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
