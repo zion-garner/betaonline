@@ -189,7 +189,7 @@ html {
 .donate-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #7289DA;
+    background-color: #00960F;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -222,7 +222,7 @@ html {
 }
 
 .donate-button:hover {
-    background-color: #677BC4;
+    background-color: #00BF13;
 }
 
 .donate-button:hover::before {
