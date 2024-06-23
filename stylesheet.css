@@ -12,7 +12,11 @@ body {
     animation: fadeIn 1.5s ease-in-out;
 }
 
-donate-body {
+body.home-body {
+    background-image: url("/img/bg1.gif");
+}
+
+body.donate-body {
     background-image: url("/img/bg2.gif");
 }
 
