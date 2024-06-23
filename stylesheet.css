@@ -265,21 +265,21 @@ a:hover {
     margin-top: 50px;
 }
 
-.donations-content {
+.donate-content {
     text-align: center;
     color: #FFF;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-.donations-content h2 {
+.donate-content h2 {
     font-size: 28px;
 }
 
-.donations-content h2 span {
+.donate-content h2 span {
     color: rgba(163, 0, 0, 0.9);
 }
 
-.donations-content p {
+.donate-content p {
     font-size: 18px;
     line-height: 1.6;
 }
