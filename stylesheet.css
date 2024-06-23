@@ -26,6 +26,19 @@ body.donate-body {
     animation: fadeIn 1.5s ease-in-out;
 }
 
+body.downloads-body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+    background-color: #f0f0f0;
+    background-image: url("/img/bg3.gif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
