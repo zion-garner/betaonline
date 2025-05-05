@@ -13,11 +13,11 @@ While initially created to host the BetaOnline website, this GitHub repository h
 
 <details>
 <summary>Features (click to expand)</summary>
-+ World downloads
-+ Screenshots
-+ Community-created content
-+ Behind-the-scenes stuff never seen before!
-+ ...and more!
++ World downloads  
++ Screenshots  
++ Community-created content  
++ Behind-the-scenes stuff never seen before!  
++ ...and more!  
 </details>
 
 ## Disclaimer
