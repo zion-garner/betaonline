@@ -27,3 +27,5 @@ While initially created to host the BetaOnline website, this GitHub repository h
 By using this repository, you agree to not claim ownership over anything you download and use. Files may not be uploaded and shared to other places on the internet without proper credit given to BetaOnline, this especially applies to our world downloads.
 
 Many of the files in this repository was created by members the BetaOnline community. These files belong to their respective owners, and I do not claim ownership over them. These have been uploaded to this repository for archival purposes only.
+
+![Oak Hills Render](https://raw.githubusercontent.com/zion-garner/betaonline/refs/heads/main/archive/bonus/renders/Render_Oak_Hills.png)
