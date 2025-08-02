@@ -1,4 +1,4 @@
-![BetaOnline Banner](https://raw.githubusercontent.com/zion-garner/betaonline/refs/heads/main/archive/bonus/logos/BetaOnline_Logo_Banner_Transparent.png)
+![BetaOnline Banner](https://raw.githubusercontent.com/zion-garner/betaonline/refs/heads/main/bonus/logos/BetaOnline_Logo_Banner_Transparent.png)
 **BetaOnline** was a Minecraft Beta 1.7.3 server that ran from March 6th, 2022 to March 31st, 2025. 
 
 ## A brief history lesson
@@ -28,4 +28,4 @@ By using this repository, you agree to not claim ownership over anything you dow
 
 Many of the files in this repository was created by members the BetaOnline community. These files belong to their respective owners, and I do not claim ownership over them. These have been uploaded to this repository for archival purposes only.
 
-![Oak Hills Render](https://raw.githubusercontent.com/zion-garner/betaonline/refs/heads/main/archive/bonus/renders/Render_Oak_Hills.png)
+![Oak Hills Render](https://raw.githubusercontent.com/zion-garner/betaonline/refs/heads/main/bonus/renders/Render_Oak_Hills.png)
